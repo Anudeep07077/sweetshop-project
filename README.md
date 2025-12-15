@@ -1,9 +1,17 @@
 --> Sweet Shop Management System
 
+
+# Project Scope Clarification
+
+This project focuses on demonstrating full-stack development fundamentals including
+frontend-backend integration, REST API design, database persistence, and clean code practices.
+Due to time and scope constraints, authentication and authorization are implemented as
+UI flows only on the frontend. Backend authentication using JWT and role-based access
+(Spring Security) is identified as a future enhancement and is intentionally not included
+in this iteration.
 A full-stack Sweet Shop Management application developed as part of a technical assignment.  
 The project demonstrates clean frontend design, REST API integration, and database persistence.
 
----
 
 --> Tech Stack
 
@@ -26,7 +34,6 @@ The project demonstrates clean frontend design, REST API integration, and databa
 - npm
 - Git & GitHub
 
----
 
 --> Features
 
@@ -88,3 +95,24 @@ POST /api/orders
 
 Login and Register screens are implemented as UI flows for demonstration purposes.
 Backend authentication (Spring Security, JWT) can be added in future iterations.
+
+-->  🤖 My AI Usage
+
+AI tools were used as a productivity aid during the development of this project.
+
+--> Tools Used
+- ChatGPT (OpenAI)
+
+--> How AI Was Used
+- To clarify backend architecture and REST API design decisions.
+- To troubleshoot configuration issues related to Spring Boot, MySQL, and Maven.
+- To generate boilerplate code suggestions which were then manually reviewed,
+  modified, and integrated.
+- To improve code readability and refactor frontend React components.
+- To assist in understanding Git workflows and best practices.
+
+--> Reflection
+AI significantly improved development speed and helped resolve blockers faster.
+However, all business logic, architectural decisions, and final implementations
+were fully understood, reviewed, and customized by me. AI was used as a support
+tool rather than a replacement for reasoning or design decisions.
