@@ -116,3 +116,12 @@ AI significantly improved development speed and helped resolve blockers faster.
 However, all business logic, architectural decisions, and final implementations
 were fully understood, reviewed, and customized by me. AI was used as a support
 tool rather than a replacement for reasoning or design decisions.
+
+--> ScreenShots
+<img width="1919" height="1079" alt="Screenshot 2025-12-15 172404" src="https://github.com/user-attachments/assets/28f449c8-3ef8-451b-bdd3-e1043c2d4d0e" />
+<img width="1919" height="1079" alt="Screenshot 2025-12-15 172351" src="https://github.com/user-attachments/assets/f71859f6-bc9f-4953-9145-cda1dd4c7c19" />
+<img width="1919" height="1079" alt="Screenshot 2025-12-15 172323" src="https://github.com/user-attachments/assets/e2398e15-6edb-47cc-ae47-0ff96290eac3" />
+<img width="1919" height="1079" alt="Screenshot 2025-12-15 172309" src="https://github.com/user-attachments/assets/4cdf800f-f685-48b1-9295-b83ff9512dc1" />
+<img width="1919" height="1077" alt="Screenshot 2025-12-15 172257" src="https://github.com/user-attachments/assets/138c43b0-ebe7-48e6-b229-0912d2fb40e2" />
+<img width="1919" height="1079" alt="Screenshot 2025-12-15 172238" src="https://github.com/user-attachments/assets/ca16f1fe-a1ff-4b13-98c6-1eb484a4c296" />
+
